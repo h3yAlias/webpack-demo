@@ -9,7 +9,7 @@ const webpack = require('webpack')
 module.exports = {
   entry: {
     main: './src/index.js',
-    about: './src/pages/page/index.js',
+    page: './src/pages/page/index.js',
     clients: './src/pages/clients/index.js',
   },
   output: {
