@@ -1,0 +1,8 @@
+@import url("./vendor/fonts.css");
+@import url("./blocks/header/header.css");
+
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+}
